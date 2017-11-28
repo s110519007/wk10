@@ -1,0 +1,230 @@
+html{
+  color: #ffffff;
+}
+.container{
+  color: #ffffff;
+  max-width: 1440px;
+  max-height: 3200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+  width: 1440px;
+  height: 64px;
+  background-color: #ffffff;
+}
+.a{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+  color: rgba(33, 33, 33, 0.8);
+  float: left;
+  margin: 21.5px 557px 21.5px 10px;
+}
+.logo{
+  float: left;
+}
+.search{
+  float: left;
+  margin: 22px 0 22px 427px;
+}
+.l{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+  color: rgba(33, 33, 33, 0.8);
+  float: left;
+  margin: 22px 28px 21px 11px;
+}
+.s{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 500;
+  text-align: left;
+  color: rgba(33, 33, 33, 0.8);
+  float: left;
+  margin: 21.5px 18px 21.5px 0;
+}
+.triangle{
+  float: left;
+  margin: 22px 20px 25.3px 0;
+}
+
+
+
+.banner{
+  width: 1440px;
+  height: 625px;
+}
+.slide{
+  margin: -337px 0 303px 35px;
+}
+.block{
+  width: 1394px;
+  height: 471px;
+  background-color: #ffffff;
+  padding-left: 46px;
+}
+.section-area{
+  width: 1440px;
+  height: 100px;
+  background-color: #ffffff;
+  margin-bottom: 15px;
+}
+.coding{
+  font-family: Helvetica;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 3.2px;
+  text-align: left;
+  margin: 29.5px 0 29.5px 46px;
+  color: #212121;
+  float: left;
+}
+.design{
+  font-family: Helvetica;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 3.2px;
+  text-align: left;
+  margin: 29.5px 0 29.5px 46px;
+  color: #212121;
+  float: left;
+}
+.animation{
+  font-family: Helvetica;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 3.2px;
+  text-align: left;
+  margin: 29.5px 0 29.5px 46px;
+  color: #212121;
+  float: left;
+}
+.language{
+  font-family: Helvetica;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 3.2px;
+  text-align: left;
+  margin: 29.5px 0 29.5px 46px;
+  color: #212121;
+  float: left;
+}
+.more{
+  float: right;
+  font-family: Helvetica;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #27b3c0;
+  border-radius: 3px;
+  border: solid 1px #27b3c0;
+  letter-spacing: normal;
+  padding: 9.5px 13.5px;
+  margin: 25px 25px 39px 0;
+}
+.img{
+  width: 297.5px;
+  height: 385.5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px 0.2px rgba(0, 0, 0, 0.5);
+  float: left;
+  margin: 20px 52.5px 65.5px 0;
+}
+.img-l{
+  width: 297.5px;
+  height: 385.5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px 0.2px rgba(0, 0, 0, 0.5);
+  float: left;
+  margin: 20px 46.5px 65.5px 0;
+}
+.title{
+  font-family: Helvetica;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  color: #212121;
+  width: 249.5px;
+  height: 32px;
+  background-color: #ffffff;
+  margin: 33px 0 33px 24px;
+}
+
+
+
+footer{
+  width: 1207px;
+  height: 152px;
+  background-color: #222c31;
+  padding-left: 233px;
+}
+ul{
+  float: left;
+}
+.icon{
+  float: left;
+}
+.intercom{
+  float: right;
+  margin: 29px 36px 0 0;
+}
+li{
+  float: left;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1.7px;
+  text-align: left;
+  color: rgba(238, 238, 238, 0.8);
+  list-style: none;
+  margin: 10px 96.3px 0 0;
+}
+.ig{
+  float: left;
+  margin: 20px 39px 0 65px;
+}
+.fb{
+  float: left;
+  margin: 20px 40.6px 0 0;
+}
+.twitter{
+  float: left;
+  margin: 23.4px 39.6px 0 0;
+}
+.youtube{
+  float: left;
+  margin: 24px 0 0 0;
+}
+.logo-2{
+  float: left;
+  margin: -26px 0 16px 30px;
+}
+.copyright{
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1.4px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0 0 16px 20px;
+  float: left;
+}
+.l-language{
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1.7px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+  border: solid 1px #f5f5f5;
+  float: right;
+  margin: -21px 216px 21px 0;
+  padding: 11px 54px 11px 5px;
+}
+.clear{
+  clear: both;
+}
